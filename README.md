@@ -33,11 +33,11 @@ pip install streamlit pandas
 
 Run the application:
 
-streamlit run app.py
+streamlit run app1.py
 
 ## Project Structure
 
-app.py
+app1.py
 nayepankh.db
 README.md
 screenshots/
